@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RmPro.Entities/1.0.0": {
+        "runtime": {
+          "RmPro.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RmPro.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

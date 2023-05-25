@@ -1,0 +1,12 @@
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\bin\Debug\net6.0\RmPro.ViewModels.deps.json
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\bin\Debug\net6.0\RmPro.ViewModels.dll
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\bin\Debug\net6.0\RmPro.ViewModels.pdb
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\RmPro.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\RmPro.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\RmPro.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\RmPro.ViewModels.AssemblyInfo.cs
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\RmPro.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\RmPro.ViewModels.dll
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\refint\RmPro.ViewModels.dll
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\RmPro.ViewModels.pdb
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.ViewModels\obj\Debug\net6.0\ref\RmPro.ViewModels.dll

@@ -1,0 +1,12 @@
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\bin\Debug\net6.0\RmPro.Entities.deps.json
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\bin\Debug\net6.0\RmPro.Entities.dll
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\bin\Debug\net6.0\RmPro.Entities.pdb
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\RmPro.Entities.csproj.AssemblyReference.cache
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\RmPro.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\RmPro.Entities.AssemblyInfoInputs.cache
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\RmPro.Entities.AssemblyInfo.cs
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\RmPro.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\RmPro.Entities.dll
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\refint\RmPro.Entities.dll
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\RmPro.Entities.pdb
+C:\Users\Mahshid\Desktop\codes\ramand mini project\RmPro\RmPro.Entities\obj\Debug\net6.0\ref\RmPro.Entities.dll
